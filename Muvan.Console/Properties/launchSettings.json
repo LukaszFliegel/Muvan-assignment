@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Muvan.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "https://www.allrecipes.com/boursin-stuffed-peppadew-peppers-recipe-11717965"
+    }
+  }
+}
